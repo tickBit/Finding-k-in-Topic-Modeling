@@ -14,3 +14,5 @@ The script creates "corpus_data" folder into the current directory the script is
 I hope this notebook helps people to work with tmtoolkit! ;-)
 
 https://tmtoolkit.readthedocs.io/en/latest/
+
+It seems, that slight differences in preprocessing the Wikipedia may have big impact to the number os topics.
