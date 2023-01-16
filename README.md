@@ -1,6 +1,6 @@
 # Finding optimal number of topics with tmtoolkit in topic modeling with LDA
 
-The script reads Pac Man's Wikipedia page and does topic modeling to it with to different metrics from tmtoolkit library. Mimno (2011) algorithm finds 18 topics and Cao Juan (2009) algorithm finds 17 topics. In total from the Wikipedia is used 18 sections.
+The script reads Pac Man's Wikipedia page and does topic modeling to it with different metrics from tmtoolkit module. Mimno (2011) algorithm finds 18 topics and Cao Juan (2009) algorithm finds 17 topics. In total from the Wikipedia is used 18 sections.
 
 These latent topics are different in Mimno's algorithm than in Wikipedia's sections, though.
 
