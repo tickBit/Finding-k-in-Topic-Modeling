@@ -15,4 +15,4 @@ I hope this notebook helps people to work with tmtoolkit! ;-)
 
 https://tmtoolkit.readthedocs.io/en/latest/
 
-It seems, that slight differences in preprocessing the Wikipedia may have big impact to the number os topics.
+It seems, that slight differences in preprocessing the Wikipedia may have big impact to the number of topics.
