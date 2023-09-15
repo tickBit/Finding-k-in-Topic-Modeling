@@ -8,7 +8,7 @@ The difference between the two notebooks is, that the second uses as corpus the 
 
 ## Python version needed
 
-At the time of writing, the tmtoolkit needs Python 3.8-Python3.10.
+At the time of writing, tmtoolkit needs Python 3.8-Python 3.10.
 
 ## Some instructions
 
