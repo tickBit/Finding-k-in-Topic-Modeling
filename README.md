@@ -2,7 +2,7 @@
 
 The notebooks read Pac-Man's Wikipedia page and do topic modeling to it with different metrics from tmtoolkit module.
 
-The script creates "corpus_data" folder into the current directory the script is at (if it doesn't exist) and writes there on separate files the sentences that are used in txt format.
+The scripts create "corpus_data" folder into the current directory the script is at (if it doesn't exist) and write there on separate files the sentences that are used in txt format.
 
 The difference between the two notebooks is, that the second uses as corpus the original data saved to disk insted of tmtoolkit's doc_labels_short_texts.
 
