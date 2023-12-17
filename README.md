@@ -26,3 +26,7 @@ python -m tmtoolkit setup en
 
 https://tmtoolkit.readthedocs.io/en/latest/
 
+## The difference between the two versions
+
+- Finding-optimal-k-with-Topic-Modeling.ipynb uses doc_labels_short_texts to print the sentences of topics
+- Finding-optimal-k-with-Topic-Modeling_2.ipynb uses indices related to original corpus...
